@@ -12,7 +12,7 @@
   job:
     detail: Undergraduate Student
     i18n: company_a_job
-  icon: fa-python
+  icon: fa-linux
 
 - name:
     detail: Company B
