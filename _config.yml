@@ -13,31 +13,31 @@ img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/asset
 author:  # change following line to your infomation.
   name: Andrew Dworschak  # Be used at blog posts' author.
   first_name: Andrew  # Be used at index page about me section.
-  last_name: Dwroschak  # Be used at index page about me section.
+  last_name: Dworschak  # Be used at index page about me section.
   avatar: /static/assets/img/landing/PictureSquare.jpg  # upload your avatar at directory and edit it.
   github_username: andrewDworschak  # Leave blank if you don't have now
   linkedin_id: andrew-dworschak # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
-  twitter_username: jiakun614  # Leave blank if you don't have now
-  email: me@jarrekk.com  # Leave blank if you don't have now
+  facebook_username: andrew.dworschak  # Leave blank if you don't have now
+  twitter_username:  # Leave blank if you don't have now
+  email: andrewdworschak@gmail.com  # Leave blank if you don't have now
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-apache
+    - name: fa-python
     - name: fa-linux
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: Andrew is a 5th year Engineering Physics student with a Minor in Entrepreneurship at the University of British Columbia.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  #name: jalpc
 
 # analytics
 ## google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: UA-93473370-3
+  #id: UA-93473370-3
 
 ## google optimize
 go:
