@@ -32,8 +32,7 @@
     detail: Logic & Form at the Indian Residential School History & Dialogue Centre, UBC
     i18n: company_c
   desc:
-    detail: Planned system architecture and developed software for an interactive digital museum. 
-    Gathered stakeholder feedback to help create an appropriate, educational history of Indian Residential Schools.
+    detail: Planned system architecture and developed software for an interactive digital museum.\nGathered stakeholder feedback to help create an appropriate, educational history of Indian Residential Schools.
     i18n: company_c_desc
   date:
     detail: Aug 2017 - Dec 2017
