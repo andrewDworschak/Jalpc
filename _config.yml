@@ -4,6 +4,7 @@
 title: Andrew Dworschak
 description: Information about Andrew Dworschak.
 keywords: Andrew,Dworschak,personal,website,github,gh-pages,info,information
+basepath: /Jalpc
 url: https://andrewdworschak.github.io  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
