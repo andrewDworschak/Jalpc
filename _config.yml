@@ -27,7 +27,7 @@ author:  # change following line to your infomation.
     - name: fab fa-python
   skill_icon2:
     - name: fas fa-database
-    - name: fas fa-user-tie
+    - name: fas fa-atom
   desc: Andrew is a 5th year Engineering Physics student with a Minor in Entrepreneurship at the University of British Columbia.  # Describe yourself.
 
 # comment
