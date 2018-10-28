@@ -12,7 +12,7 @@
   job:
     detail: Bachelor of Applied Science in Engineering Physics, Minor in Entrepreneurship
     i18n: company_a_job
-  icon: fa-linux
+  icon: fas fa-graduation-cap
 
 - name:
     detail: Centre for Operations Excellence at the Sauder School of Business, UBC
@@ -26,7 +26,7 @@
   job:
     detail: Technical Analyst
     i18n: company_b_job
-  icon: fa-plus-square
+  icon: fab fa-python
   
 - name:
     detail: Logic & Form at the Indian Residential School History & Dialogue Centre, UBC
