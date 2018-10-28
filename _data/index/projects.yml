@@ -9,6 +9,8 @@
 
 - name: Rock the Boat
   i18n: rocktheboat
+  gh_user: andrewDworschak
+  repo: rock-the-boat
   url: https://andrewdworschak.github.io/rock-the-boat
   img: /static/assets/img/landing/anchor.png
   desc: Simulation engine that uses Lagrangian mechanics to simulate the stability of a floating hull.
