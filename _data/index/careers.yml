@@ -4,26 +4,41 @@
     detail: University of British Columbia
     i18n: company_a
   desc:
-    detail: Bachelor of Applied Science in Engineering Physics, Minor in Entrepreneurship
+    detail: Undergraduate student.
     i18n: company_a_desc
   date:
     detail: Sept 2014 - May 2019
     i18n: company_a_date
   job:
-    detail: Undergraduate Student
+    detail: Bachelor of Applied Science in Engineering Physics, Minor in Entrepreneurship
     i18n: company_a_job
   icon: fa-linux
 
 - name:
-    detail: Company B
+    detail: Centre for Operations Excellence at the Sauder School of Business, UBC
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Researched and applied algorithms in machine learning and statistics to solve data-driven problems for our industry
+partners.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: May 2018 - Present
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Technical Analyst
     i18n: company_b_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Logic & Form at the Indian Residential School History & Dialogue Centre, UBC
+    i18n: company_c
+  desc:
+    detail: I worked at Company B ...
+    i18n: company_c_desc
+  date:
+    detail: Aug 2017 - Dec 2017
+    i18n: company_c_date
+  job:
+    detail: Creative Engineer
+    i18n: company_c_job
   icon: fa-plus-square
