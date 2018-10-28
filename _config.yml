@@ -20,14 +20,14 @@ author:  # change following line to your infomation.
   facebook_username: andrew.dworschak  # Leave blank if you don't have now
   twitter_username:  # Leave blank if you don't have now
   email: andrewdworschak@gmail.com  # Leave blank if you don't have now
-  cv: {{url}}/Jalpc/static/assets/pdfs/Andrew_Dworschak_Resume.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: Andrew_Dworschak_Resume.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fa-python
-    - name: fa-linux
+    - name: fab fa-python
+    - name: fab fa-linux
   skill_icon2:
-    - name: fa-linux
-    - name: icon-apache
+    - name: fab fa-linux
+    - name: fab icon-apache
   desc: Andrew is a 5th year Engineering Physics student with a Minor in Entrepreneurship at the University of British Columbia.  # Describe yourself.
 
 # comment
