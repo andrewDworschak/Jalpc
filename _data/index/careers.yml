@@ -18,8 +18,7 @@
     detail: Centre for Operations Excellence at the Sauder School of Business, UBC
     i18n: company_b
   desc:
-    detail: Researched and applied algorithms in machine learning and statistics to solve data-driven problems for our industry
-partners.
+    detail: Researched and applied algorithms in machine learning and statistics to solve data-driven problems for our industry partners.
     i18n: company_b_desc
   date:
     detail: May 2018 - Present
@@ -33,7 +32,8 @@ partners.
     detail: Logic & Form at the Indian Residential School History & Dialogue Centre, UBC
     i18n: company_c
   desc:
-    detail: I worked at Company B ...
+    detail: Planned system architecture and developed software for an interactive digital museum. 
+    Gathered stakeholder feedback to help create an appropriate, educational history of Indian Residential Schools.
     i18n: company_c_desc
   date:
     detail: Aug 2017 - Dec 2017
