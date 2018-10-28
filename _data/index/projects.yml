@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Automated Fitness Tracking w/ Machine Vision
   i18n: iotgym
-  url: {{ site.baseurl }}/ENPH_459_Project_Summary.pdf
+  url: https://andrewdworschak.github.io/ENPH_459_Project_Summary.pdf
   img: /static/assets/img/landing/increment_twotone.png
   desc: Award winning entrepreneurial project to automatically track workouts using a depth-sensing camera.
 
