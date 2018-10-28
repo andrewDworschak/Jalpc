@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, C++, Innovation, Data Analytics, Professional Communication, Technical Writing, Swift
-percentage: 90, 70, 95, 85, 85, 85, 80 
+aspects: Python, C++, SQL, Innovation, Data Analytics, Professional Communication, Technical Writing, Swift
+percentage: 90, 70, 80, 95, 85, 85, 85, 80 

@@ -26,7 +26,7 @@
   job:
     detail: Technical Analyst
     i18n: company_b_job
-  icon: fab fa-python
+  icon: fas fa-analytics
   
 - name:
     detail: Logic & Form at the Indian Residential School History & Dialogue Centre, UBC
@@ -42,7 +42,7 @@
   job:
     detail: Creative Engineer
     i18n: company_c_job
-  icon: fa-plus-square
+  icon: fas fa-university
   
 - name:
     detail: Fluid Mechanics Laboratory, UBC
@@ -58,7 +58,7 @@
   job:
     detail: Complex Fluids Research Engineer
     i18n: company_d_job
-  icon: fa-plus-square
+  icon: fas fa-cogs
   
 - name:
     detail: Arbutus Medical
@@ -74,7 +74,7 @@
   job:
     detail: Biomedical Engineer
     i18n: company_e_job
-  icon: fa-plus-square
+  icon: fas fa-syringe
   
 - name:
     detail: Andrew Dworschak Painting, a franchise of University First Class Painters
@@ -90,4 +90,4 @@
   job:
     detail: Painting Franchise Owner
     i18n: company_f_job
-  icon: fa-plus-square
+  icon: fas fa-paint-roller

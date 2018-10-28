@@ -23,11 +23,11 @@ author:  # change following line to your infomation.
   cv: Andrew_Dworschak_Resume.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
+    - name: fas fa-analytics
     - name: fab fa-python
-    - name: fab fa-linux
   skill_icon2:
-    - name: fab fa-linux
-    - name: fab icon-apache
+    - name: fas fa-database
+    - name: fas fa-user-tie
   desc: Andrew is a 5th year Engineering Physics student with a Minor in Entrepreneurship at the University of British Columbia.  # Describe yourself.
 
 # comment
