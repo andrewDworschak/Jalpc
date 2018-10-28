@@ -26,7 +26,7 @@
   job:
     detail: Technical Analyst
     i18n: company_b_job
-  icon: fas fa-analytics
+  icon: fas fa-chart-line
   
 - name:
     detail: Logic & Form at the Indian Residential School History & Dialogue Centre, UBC

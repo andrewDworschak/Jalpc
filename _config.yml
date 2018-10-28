@@ -23,7 +23,7 @@ author:  # change following line to your infomation.
   cv: Andrew_Dworschak_Resume.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fas fa-analytics
+    - name: fas fa-chart-line
     - name: fab fa-python
   skill_icon2:
     - name: fas fa-database
