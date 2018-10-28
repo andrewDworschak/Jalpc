@@ -43,3 +43,51 @@
     detail: Creative Engineer
     i18n: company_c_job
   icon: fa-plus-square
+  
+- name:
+    detail: Fluid Mechanics Laboratory, UBC
+    i18n: company_d
+  desc:
+    detail: |
+      Performed experiments to describe the process of pressurized fluid invasion into a well of Carbopol gel.
+      Developed a software system in C++ to control experimental equipment precisely and automate data collection.
+    i18n: company_d_desc
+  date:
+    detail: May 2017 - Aug 2017
+    i18n: company_d_date
+  job:
+    detail: Complex Fluids Research Engineer
+    i18n: company_d_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Arbutus Medical
+    i18n: company_e
+  desc:
+    detail: |
+      Helped to develop low-cost surgical tools for use in developing countries.
+      Leading R&D for the Drill Cover System 2, I invented mechanical components for the flagship drill cover product.
+    i18n: company_e_desc
+  date:
+    detail: Jan 2016 - Apr 2016
+    i18n: company_e_date
+  job:
+    detail: Biomedical Engineer
+    i18n: company_e_job
+  icon: fa-plus-square
+  
+- name:
+    detail: Andrew Dworschak Painting, a franchise of University First Class Painters
+    i18n: company_f
+  desc:
+    detail: |
+      Managed hiring, training, marketing, sales, production and accounting.
+      Generated $50,000 in revenue and $15,000 in net profit over a 3-month period.
+    i18n: company_f_desc
+  date:
+    detail: Oct 2014 - Aug 2015
+    i18n: company_f_date
+  job:
+    detail: Painting Franchise Owner
+    i18n: company_f_job
+  icon: fa-plus-square
