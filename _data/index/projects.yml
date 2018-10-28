@@ -17,6 +17,8 @@
 
 - name: Das-Pan Robot
   i18n: daspan
+  gh_user: andrewDworschak
+  repo: das_pan
   url: https://andrewdworschak.github.io/das_pan
   img: /static/assets/img/landing/logo.png
   desc: Entry to the Engineering Physics Uber-Bots competition to autonomously to transport passengers across a miniature city.
