@@ -2,8 +2,14 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
+- src: landing/iotgym.png
+  title: Automated Fitness Tracking with Machine Vision
+
 - src: landing/cec2017.png
   title: 2nd Place Finish at the Canadian Engineering Competition 2017
+  
+- src: landing/robocomp.png
+  title: Engineering Physics Uber-Bots Compeition 2016
 
 - src: landing/cec2016.png
   title: 1st Place in Western Engineering Competition 2016 and 4th Place in Canadian Engineering Competition
