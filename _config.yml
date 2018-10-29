@@ -27,7 +27,7 @@ author:  # change following line to your infomation.
     - name: fab fa-python
   skill_icon2:
     - name: fas fa-database
-    - name: fas fa-atom
+    - name: fas fa-flask
   desc: |
     Andrew is a 5th year Engineering Physics student with a Minor in Entrepreneurship at the University of British Columbia.
     His interests include computer science, applied mathematics, research and innovation. He values curiosity, integrity and honesty.
