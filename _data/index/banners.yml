@@ -4,12 +4,16 @@
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/iotgym.png
   title: Automated Fitness Tracking with Machine Vision
+  link: https://andrewdworschak.github.io/ENPH_459_Project_Summary.pdf
 
 - src: landing/cec2017.png
   title: 2nd Place Finish at the Canadian Engineering Competition 2017
+  link: http://www.engphys.ubc.ca/2017/01/29/2nd-place-at-western-engineering-competition/
   
 - src: landing/robocomp.png
   title: Engineering Physics Uber-Bots Compeition 2016
+  link: https://andrewdworschak.github.io/das_pan
 
 - src: landing/cec2016.png
   title: 1st Place in Western Engineering Competition 2016 and 4th Place in Canadian Engineering Competition
+  link: http://www.engphys.ubc.ca/2016/11/01/1st-place-finish-at-western-engineering-competition/
