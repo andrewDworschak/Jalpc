@@ -5,18 +5,18 @@
             <div class="container">
                 <div class="carousel-caption">
                 </div>
-				<a href="{{ site.data.index.banners[0].link }}" target="blank">
-					<div class="carousel-image wow">
-						<!-- <img src="static/img/landing/laptop.png" alt="laptop"/> -->
-					</div>
-				</a>
+				<div class="carousel-image wow">
+                    <!-- <img src="static/img/landing/laptop.png" alt="laptop"/> -->
+                </div>
             </div>
             <!-- Set background for slide in css -->
-            <div
-            class="header-back"
-            style="background-image: url({{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }});"
-            title="{{ site.data.index.banners[0].title }}">
-            </div>
+			<a href="{{ site.data.index.banners[0].link }}" target="blank">
+				<div
+				class="header-back"
+				style="background-image: url({{ '/static/assets/img/' | prepend: site.baseurl }}{{ site.data.index.banners[0].src }});"
+				title="{{ site.data.index.banners[0].title }}">
+				</div>
+			</a>
         </div>
 
         {% for banner in site.data.index.banners offset:1 %}
@@ -24,14 +24,18 @@
             <div class="container">
                 <div class="carousel-caption">
                 </div>
-				<a href="{{ banner.link }}" target="blank">
-					<div class="carousel-image wow">
-						<!-- <img src="static/img/landing/laptop.png" alt="laptop"/> -->
-					</div>
-				</a>
+				<div class="carousel-image wow">
+					<!-- <img src="static/img/landing/laptop.png" alt="laptop"/> -->
+				</div>
             </div>
             <!-- Set background for slide in css -->
-            <div class="header-back" style="background-image: url({{ "/static/assets/img/"  | prepend: site.baseurl }}{{ banner.src }});" title="{{ banner.title }}"></div>
+            <a href="{{ banner.link }}" target="blank">
+				<div 
+				class="header-back" 
+				style="background-image: url({{ "/static/assets/img/"  | prepend: site.baseurl }}{{ banner.src }});" 
+				title="{{ banner.title }}">
+				</div>
+			</a>
         </div>
         {% endfor %}
 
