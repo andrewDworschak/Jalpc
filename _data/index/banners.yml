@@ -4,7 +4,7 @@
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/iotgym.png
   title: Automated Fitness Tracking with Machine Vision
-  link: https://andrewdworschak.github.io/ENPH_459_Project_Summary.pdf
+  link: https://andrewdworschak.github.io/Automated_Fitness_Tracking.pdf
 
 - src: landing/cec2017.png
   title: 2nd Place Finish at the Canadian Engineering Competition 2017
