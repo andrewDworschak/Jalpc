@@ -13,7 +13,7 @@
   repo: rock-the-boat
   url: https://andrewdworschak.github.io/rock-the-boat
   img: /static/assets/img/landing/anchor.png
-  desc: Simulation engine and <a href="https://andrewdworschak.github.io/Floating_Hull_Report.pdf">report</a> using Lagrangian mechanics to simulate the stability of a floating hull.
+  desc: Simulation engine and <a href="https://andrewdworschak.github.io/Floating_Hull_Report.pdf" target="blank">report</a> using Lagrangian mechanics to simulate the stability of a floating hull.
 
 - name: Das-Pan Robot
   i18n: daspan
