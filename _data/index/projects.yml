@@ -27,7 +27,7 @@
   i18n: sqnce
   gh_user: andrewDworschak
   repo: SQNCE
-  url: https://andrewdworschak.github.io/SQNCE
+  url: https://github.com/andrewDworschak/SQNCE
   img: /static/assets/img/landing/sqnce_logo.png
   desc: Physics Based iOS Application programmed in Swift and deployed with an Ad server on the iOS App Store.
 
