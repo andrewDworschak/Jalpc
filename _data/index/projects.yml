@@ -23,3 +23,11 @@
   img: /static/assets/img/landing/logo.png
   desc: Entry to the Engineering Physics Uber-Bots competition to autonomously to transport passengers across a miniature city.
 
+- name: SQNCE iOS Application
+  i18n: sqnce
+  gh_user: andrewDworschak
+  repo: SQNCE
+  url: https://andrewdworschak.github.io/SQNCE
+  img: /static/assets/img/landing/sqnce_logo.png
+  desc: Physics Based iOS Application programmed in Swift and deployed with an Ad server on the iOS App Store.
+
