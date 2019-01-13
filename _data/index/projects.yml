@@ -7,7 +7,7 @@
   img: /static/assets/img/landing/increment_twotone.png
   desc: Award winning entrepreneurial project to automatically track workouts using a depth-sensing camera.
 
-- name: Rock the Boat
+- name: Rock the Boat Simulation
   i18n: rocktheboat
   gh_user: andrewDworschak
   repo: rock-the-boat
