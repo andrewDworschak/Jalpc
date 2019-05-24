@@ -4,13 +4,13 @@
     detail: Stanford University
     i18n: company_a
   desc:
-    detail: Masters degree.
+    detail: Master of Science in Management Science & Engineering.
     i18n: company_a_desc
   date:
     detail: Sept 2019 - Present
     i18n: company_a_date
   job:
-    detail: Master of Science in Management Science & Engineering
+    detail: Masters Student
     i18n: company_a_job
   icon: fas fa-graduation-cap
 
@@ -18,13 +18,13 @@
     detail: University of British Columbia
     i18n: company_b
   desc:
-    detail: Undergraduate degree.
+    detail: Bachelor of Applied Science in Engineering Physics, Minor in Entrepreneurship.
     i18n: company_b_desc
   date:
     detail: Sept 2014 - May 2019
     i18n: company_b_date
   job:
-    detail: Bachelor of Applied Science in Engineering Physics, Minor in Entrepreneurship
+    detail: BASc, Engineering Physics
     i18n: company_b_job
   icon: fas fa-graduation-cap
 
