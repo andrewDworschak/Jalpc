@@ -1,93 +1,107 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: University of British Columbia
+    detail: Stanford University
     i18n: company_a
   desc:
-    detail: Undergraduate student.
+    detail: Masters degree.
     i18n: company_a_desc
   date:
-    detail: Sept 2014 - May 2019
+    detail: Sept 2019 - Present
     i18n: company_a_date
   job:
-    detail: Bachelor of Applied Science in Engineering Physics, Minor in Entrepreneurship
+    detail: Master of Science in Management Science & Engineering
     i18n: company_a_job
   icon: fas fa-graduation-cap
 
 - name:
-    detail: Centre for Operations Excellence at the Sauder School of Business, UBC
+    detail: University of British Columbia
     i18n: company_b
   desc:
-    detail: Researched and applied algorithms in machine learning and statistics to solve data-driven problems for our industry partners.
+    detail: Undergraduate degree.
     i18n: company_b_desc
   date:
-    detail: May 2018 - Present
+    detail: Sept 2014 - May 2019
     i18n: company_b_date
   job:
-    detail: Technical Analyst
+    detail: Bachelor of Applied Science in Engineering Physics, Minor in Entrepreneurship
     i18n: company_b_job
+  icon: fas fa-graduation-cap
+
+- name:
+    detail: Centre for Operations Excellence at the Sauder School of Business, UBC
+    i18n: company_c
+  desc:
+    detail: Researched and applied algorithms in machine learning and statistics to solve data-driven problems for our industry partners.
+    i18n: company_c_desc
+  date:
+    detail: May 2018 - Jan 2019
+    i18n: company_c_date
+  job:
+    detail: Technical Analyst
+    i18n: company_c_job
   icon: fas fa-chart-line
   
 - name:
     detail: Logic & Form at the Indian Residential School History & Dialogue Centre, UBC
-    i18n: company_c
+    i18n: company_d
   desc:
     detail: |
       Planned system architecture and developed software for an interactive digital museum.
       Gathered stakeholder feedback to help create an appropriate, educational history of Indian Residential Schools.
-    i18n: company_c_desc
+    i18n: company_d_desc
   date:
     detail: Aug 2017 - Dec 2017
-    i18n: company_c_date
+    i18n: company_d_date
   job:
     detail: Creative Engineer
-    i18n: company_c_job
+    i18n: company_d_job
   icon: fas fa-university
   
 - name:
     detail: Fluid Mechanics Laboratory, UBC
-    i18n: company_d
+    i18n: company_e
   desc:
     detail: |
       Performed experiments to describe the process of pressurized fluid invasion into a well of Carbopol gel.
       Developed a software system in C++ to control experimental equipment precisely and automate data collection.
-    i18n: company_d_desc
+    i18n: company_e_desc
   date:
     detail: May 2017 - Aug 2017
-    i18n: company_d_date
+    i18n: company_e_date
   job:
     detail: Complex Fluids Research Engineer
-    i18n: company_d_job
+    i18n: company_e_job
   icon: fas fa-cogs
   
 - name:
     detail: Arbutus Medical
-    i18n: company_e
+    i18n: company_f
   desc:
     detail: |
       Helped to develop low-cost surgical tools for use in developing countries.
       Leading R&D for the Drill Cover System 2, I invented mechanical components for the flagship drill cover product.
-    i18n: company_e_desc
+    i18n: company_f_desc
   date:
     detail: Jan 2016 - Apr 2016
-    i18n: company_e_date
+    i18n: company_f_date
   job:
     detail: Biomedical Engineer
-    i18n: company_e_job
+    i18n: company_f_job
   icon: fas fa-syringe
   
 - name:
     detail: Andrew Dworschak Painting, a franchise of University First Class Painters
-    i18n: company_f
+    i18n: company_g
   desc:
     detail: |
       Managed hiring, training, marketing, sales, production and accounting.
       Generated $50,000 in revenue and $15,000 in net profit over a 3-month period.
-    i18n: company_f_desc
+    i18n: company_g_desc
   date:
     detail: Oct 2014 - Aug 2015
-    i18n: company_f_date
+    i18n: company_g_date
   job:
     detail: Painting Franchise Owner
-    i18n: company_f_job
+    i18n: company_g_job
   icon: fas fa-paint-roller

@@ -23,15 +23,16 @@ author:  # change following line to your infomation.
   cv: Andrew_Dworschak_Resume.pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: fas fa-chart-line
-    - name: fab fa-python
+    - name: fas fa-python
+    - name: fab fa-chart-line
   skill_icon2:
-    - name: fas fa-database
+    - name: fas fa-user-tie
     - name: fas fa-flask
   desc: |
-    Andrew is a 5th year Engineering Physics student with a Minor in Entrepreneurship at the University of British Columbia.
-    His interests include computer science, applied mathematics, research and innovation. He values curiosity, integrity and honesty.
-    Although he maintains a very busy lifestyle, he enjoys lifting weights, playing music and reading non-fiction in his spare moments.    
+    Andrew is studying for his Masters in Managment Science & Engineering from Stanford University and holds a degree in Engineering Physics
+    from the University of British Columbia. Although his native language is Python, he's intersted in the human side of business and the
+    drivers of innovation. He values curiosity, integrity and honesty. He maintains a very busy lifestyle, but enjoys lifting weights, 
+    playing music and reading non-fiction in his spare moments. 
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
