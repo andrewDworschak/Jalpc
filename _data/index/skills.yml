@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Python, C++, SQL, Innovation, Business Evaluation, Data Analytics, Agile Methodology, Web Development, Mobile Development
-percentage: 90, 75, 80, 95, 85, 90, 80, 75, 80
+aspects: Python, Business Evaluation, Innovation,  Data Analytics, Agile Methodology, Mobile Development, Web Development, C++, SQL 
+percentage: 90, 85, 95, 90, 80, 80, 75, 75, 80
