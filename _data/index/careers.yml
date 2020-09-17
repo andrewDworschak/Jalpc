@@ -128,9 +128,9 @@
     detail: 
     i18n: company_i_desc
   date:
-    detail: 
+    detail: <a href="https://andrewdworschak.github.io/Andrew_Dworschak_Resume.pdf" target="blank">Resume</a>
     i18n: company_i_date
   job:
-    detail: Resume
+    detail: 
     i18n: company_i_job
-  icon: fas fa-file-alt
+  icon: <a href="https://andrewdworschak.github.io/Andrew_Dworschak_Resume.pdf" target="blank">fas fa-file-alt</a>
