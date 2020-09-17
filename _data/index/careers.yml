@@ -6,18 +6,9 @@
   desc:
     detail: | 
         Focused on the intersection of Technology Engineering Management and Artificial Intelligence.
-        
-        − Grade Point Average: 4.17 over 10 courses taken.
-        
-        − Course Developer for an introductory AI course, Teaching Assistant for five entrepreneurship-focused courses.
-        
-        − Member of the 2020 Threshold Ventures Fellowship, returning in 2021 as a leader of the program.
-        
-        − Awarded the Centennial Teaching Assistant Award.
-
     i18n: company_a_desc
   date:
-    detail: Sept 2019 - Present
+    detail: Sept 2019 - June 2021
     i18n: company_a_date
   job:
     detail: MS, Management Science & Engineering
@@ -28,7 +19,8 @@
     detail: University of British Columbia
     i18n: company_b
   desc:
-    detail: Bachelor of Applied Science in Engineering Physics, Minor in Entrepreneurship.
+    detail: |
+        Focused on building complex engineering systems from the first principles of physics and math.
     i18n: company_b_desc
   date:
     detail: Sept 2014 - May 2019
@@ -43,13 +35,7 @@
     i18n: company_c
   desc:
     detail: | 
-        Designed, developed, and deployed data processing tools helping to identify promising start-up investments including:
-        
-        − An interface to label data for a new industry classification taxonomy used to identify comparable start-up companies.
-        
-        − A standardized pipeline used to synthesize data from different providers into a common, structured format.
-        
-        − An attention filtering algorithm used to prioritize company outreach.
+        Designed, developed, and deployed data processing tools helping to identify promising start-up investments.
     i18n: company_c_desc
   date:
     detail: June 2020 - Aug 2020
@@ -63,10 +49,7 @@
     i18n: company_d
   desc:
     detail: |
-        Developed machine learning solutions as a consultant for five business intelligence problems including:
-        − Designing custom filtering algorithms to monetize geospatial wi-fi data.
-        − Performing early filtering of insurance claim forms using Word2Vec and Latent Dirichlet Allocation.
-        − Optimizing truck reallocation procedures by simulating a mining site as a Markov Decision Process.
+        Developed machine learning solutions as a consultant for five business intelligence problems including.
     i18n: company_d_desc
   date:
     detail: May 2018 - Jan 2019
@@ -82,8 +65,6 @@
   desc:
     detail: |
         Gathered and incorporated diverse stakeholder feedback into the system architecture of an interactive digital museum.
-        − Rapidly iterated on software systems and technology demonstrations using the Scrum framework.
-        − Produced complete product specifications for a replicable digital museum in 5 months.
     i18n: company_e_desc
   date:
     detail: Aug 2017 - Dec 2017
@@ -130,8 +111,7 @@
     i18n: company_h
   desc:
     detail: |
-      Managed hiring, training, marketing, sales, production and accounting.
-      Generated $50,000 in revenue and $15,000 in net profit over a 3-month period.
+      Managed hiring, training, marketing, sales, production and accounting to generate $50,000 in revenue and $15,000 in net profit over a 3-month period.
     i18n: company_h_desc
   date:
     detail: Oct 2014 - Aug 2015
