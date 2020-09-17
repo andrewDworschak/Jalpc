@@ -133,4 +133,4 @@
   job:
     detail: 
     i18n: company_i_job
-  icon: <a href="https://andrewdworschak.github.io/Andrew_Dworschak_Resume.pdf" target="blank">fas fa-file-alt</a>
+  icon: fas fa-file-alt
