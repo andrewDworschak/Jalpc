@@ -39,10 +39,10 @@
         − An attention filtering algorithm used to prioritize company outreach.
     i18n: company_c_desc
   date:
-    detail: May 2018 - Jan 2019
+    detail: June 2020 - Aug 2020
     i18n: company_c_date
   job:
-    detail: Technical Analyst
+    detail: Quantitative Research Intern
     i18n: company_c_job
   icon: fas fa-chart-line
 - name:
@@ -51,8 +51,11 @@
   desc:
     detail: |
         Developed machine learning solutions as a consultant for five business intelligence problems including:
+        
         − Designing custom filtering algorithms to monetize geospatial wi-fi data.
+        
         − Performing early filtering of insurance claim forms using Word2Vec and Latent Dirichlet Allocation.
+        
         − Optimizing truck reallocation procedures by simulating a mining site as a Markov Decision Process.
     i18n: company_d_desc
   date:
