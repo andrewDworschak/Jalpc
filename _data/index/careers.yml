@@ -32,10 +32,12 @@
     detail: Rocketship VC
     i18n: company_c
   desc:
-    detail: |
-        Designed, developed, and deployed data processing tools helping to identify promising start-up investments including:
+    detail: Designed, developed, and deployed data processing tools helping to identify promising start-up investments including:
+        
         − An interface to label data for a new industry classification taxonomy used to identify comparable start-up companies.
+        
         − A standardized pipeline used to synthesize data from different providers into a common, structured format.
+        
         − An attention filtering algorithm used to prioritize company outreach.
     i18n: company_c_desc
   date:
@@ -51,11 +53,8 @@
   desc:
     detail: |
         Developed machine learning solutions as a consultant for five business intelligence problems including:
-        
         − Designing custom filtering algorithms to monetize geospatial wi-fi data.
-        
         − Performing early filtering of insurance claim forms using Word2Vec and Latent Dirichlet Allocation.
-        
         − Optimizing truck reallocation procedures by simulating a mining site as a Markov Decision Process.
     i18n: company_d_desc
   date:
