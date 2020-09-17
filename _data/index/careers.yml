@@ -4,7 +4,8 @@
     detail: Stanford University
     i18n: company_a
   desc:
-    detail: Focused on the intersection of Technology Engineering Management and Artificial Intelligence.
+    detail: | 
+        Focused on the intersection of Technology Engineering Management and Artificial Intelligence.
         
         − Grade Point Average: 4.17 over 10 courses taken.
         
@@ -41,7 +42,8 @@
     detail: Rocketship VC
     i18n: company_c
   desc:
-    detail: Designed, developed, and deployed data processing tools helping to identify promising start-up investments including:
+    detail: | 
+        Designed, developed, and deployed data processing tools helping to identify promising start-up investments including:
         
         − An interface to label data for a new industry classification taxonomy used to identify comparable start-up companies.
         
