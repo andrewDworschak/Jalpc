@@ -120,3 +120,17 @@
     detail: Painting Franchise Owner
     i18n: company_h_job
   icon: fas fa-paint-roller
+  
+- name:
+    detail: <a href="https://andrewdworschak.github.io/Andrew_Dworschak_Resume.pdf" target="blank">For More Information, Read My Full Resume</a>
+    i18n: company_i
+  desc:
+    detail: 
+    i18n: company_i_desc
+  date:
+    detail: 
+    i18n: company_i_date
+  job:
+    detail: Resume
+    i18n: company_i_job
+  icon: fas fa-file-alt
