@@ -34,6 +34,6 @@
 - name: Did anything pique your interest?
   i18n: email
   url: mailto:andrewdworschak@gmail.com
-  img: fas fa-envelope
+  img: /static/assets/img/landing/email_me.png
   desc: I'd love to connect, please get in touch!
 
