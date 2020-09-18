@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Stanford University
+    detail: MS, Management Science & Engineering
     i18n: company_a
   desc:
     detail: | 
@@ -11,12 +11,12 @@
     detail: Sept 2019 - June 2021
     i18n: company_a_date
   job:
-    detail: MS, Management Science & Engineering
+    detail: Stanford University
     i18n: company_a_job
   icon: fas fa-graduation-cap
 
 - name:
-    detail: University of British Columbia
+    detail: BS, Engineering Physics
     i18n: company_b
   desc:
     detail: |
@@ -26,12 +26,12 @@
     detail: Sept 2014 - May 2019
     i18n: company_b_date
   job:
-    detail: BS, Engineering Physics
+    detail: University of British Columbia
     i18n: company_b_job
   icon: fas fa-graduation-cap
   
 - name:
-    detail: Rocketship VC
+    detail: Quantitative Research Intern
     i18n: company_c
   desc:
     detail: | 
@@ -41,11 +41,11 @@
     detail: June 2020 - Aug 2020
     i18n: company_c_date
   job:
-    detail: Quantitative Research Intern
+    detail: Rocketship VC
     i18n: company_c_job
   icon: fas fa-chart-line
 - name:
-    detail: Centre for Operations Excellence (COE)
+    detail: Data Consultant
     i18n: company_d
   desc:
     detail: |
@@ -55,12 +55,12 @@
     detail: May 2018 - Jan 2019
     i18n: company_d_date
   job:
-    detail: Data Consultant
+    detail: Centre for Operations Excellence (COE)
     i18n: company_d_job
   icon: fas fa-chart-line
   
 - name:
-    detail: Logic & Form
+    detail: Product Management Intern
     i18n: company_e
   desc:
     detail: |
@@ -70,12 +70,12 @@
     detail: Aug 2017 - Dec 2017
     i18n: company_e_date
   job:
-    detail: Product Management Intern
+    detail: Logic & Form
     i18n: company_e_job
   icon: fas fa-university
   
 - name:
-    detail: Fluid Mechanics Laboratory, UBC
+    detail: Complex Fluids Research Engineer
     i18n: company_f
   desc:
     detail: |
@@ -86,12 +86,12 @@
     detail: May 2017 - Aug 2017
     i18n: company_f_date
   job:
-    detail: Complex Fluids Research Engineer
+    detail: Fluid Mechanics Laboratory, UBC
     i18n: company_f_job
   icon: fas fa-cogs
   
 - name:
-    detail: Arbutus Medical
+    detail: Biomedical Engineering Intern
     i18n: company_g
   desc:
     detail: |
@@ -102,12 +102,12 @@
     detail: Jan 2016 - Apr 2016
     i18n: company_g_date
   job:
-    detail: Biomedical Engineer
+    detail: Arbutus Medical
     i18n: company_g_job
   icon: fas fa-syringe
   
 - name:
-    detail: Andrew Dworschak Painting, a franchise of University First Class Painters
+    detail: Painting Franchise Owner
     i18n: company_h
   desc:
     detail: |
@@ -117,7 +117,7 @@
     detail: Oct 2014 - Aug 2015
     i18n: company_h_date
   job:
-    detail: Painting Franchise Owner
+    detail: Franchise of University First Class Painters
     i18n: company_h_job
   icon: fas fa-paint-roller
   
