@@ -30,4 +30,10 @@
   url: https://github.com/andrewDworschak/SQNCE
   img: /static/assets/img/landing/sqnce_logo.png
   desc: Physics Based iOS Application programmed in Swift and deployed with an Ad server on the iOS App Store.
+  
+- name: Did anything pique your interest?
+  i18n: email
+  url: mailto:andrewdworschak@gmail.com
+  img: fas fa-envelope
+  desc: I'd love to connect, please get in touch!
 
